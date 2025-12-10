@@ -1,0 +1,12 @@
+local Tabela = {
+    PlayerPermission = {
+        ["SeuNome"] = {Tier = 2000},
+    },
+
+    CharacterTier = {
+        ["Goku"] = {Tier = 1},
+        ["Madara"] = {Tier = 10},
+    }
+}
+
+return Tabela
